@@ -1,0 +1,16 @@
+1) Compiled language
+
+ tertib dilleri Asagidaki sxemi ile temsil oluna biler:
+
+
+Bu proqram novu asagidaki addimlari edir:
+1. kodunu Yazir (menbe code)
+2. fayli daxil yigma (meselen Exe)
+3. proqram icrasi  
+
+
+2) Interpreted language
+
+Buna gore, proqram yasamdongusu azaldir:
+1. Yazi 
+2. icra
