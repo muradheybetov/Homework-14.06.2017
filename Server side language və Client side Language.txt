@@ -1,0 +1,9 @@
+Server side language  
+
+Server musteri  son istifadesi teleb asili olaraq web pages xidmet isin mesuliyyet dasiyir. Bu statik ve ya dinamik ola biler.
+
+
+
+Client side Language
+
+Musteri server pages xahis ve son istifadesi ucun onlara gosteren bir partiyanin. umumiyyetle bir musteri proqram bir web browser edir.
